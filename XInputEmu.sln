@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XInputEmu", "XInputEmu\XInputEmu.csproj", "{CEDA9F6C-5302-4DCB-B00E-1B3647B673F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XInputHook", "XInputHook\XInputHook.csproj", "{2EE59932-E16A-4ED1-B273-D40BC6C72A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDA9F6C-5302-4DCB-B00E-1B3647B673F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDA9F6C-5302-4DCB-B00E-1B3647B673F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDA9F6C-5302-4DCB-B00E-1B3647B673F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDA9F6C-5302-4DCB-B00E-1B3647B673F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE59932-E16A-4ED1-B273-D40BC6C72A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE59932-E16A-4ED1-B273-D40BC6C72A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE59932-E16A-4ED1-B273-D40BC6C72A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE59932-E16A-4ED1-B273-D40BC6C72A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
